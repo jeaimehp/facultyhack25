@@ -1,5 +1,7 @@
 # Je’aime Powell  
 
+<img src="sticker.png" width=100>
+
 Je’aime Powell is a researcher, educator, and systems analyst specializing in **high-performance computing (HPC), artificial intelligence (AI), and workforce development**. He serves as a key contributor at **Omnibond Systems**, where he helps shape platforms such as **projectEUREKA!**, **OmniScheduler**, **OmniCopy**, and **OrangeFS**—solutions designed to empower scientific research, data-intensive computing, and AI-enabled discovery.  
 
 With a deep passion for **training the next generation of researchers**, Je’aime is a long-time leader and mentor in **HackHPC hackathons**, the **Science Gateways Community Institute (SGX3)**, and specialized workforce initiatives such as **FacultyHack@Gateways** and the **SGX3 Coding Institute**. His programs emphasize **hands-on learning, reproducible science, and collaboration across minority-serving institutions (MSIs), national labs, and universities**.  
